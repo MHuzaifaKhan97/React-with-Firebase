@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+/* Sign In Component */
+
+.signin-container{
+  text-align: center;
+}
+.signin-container h1{
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: inherit;
+}
+/* Sign Up Component */
+.signup-container{
+  text-align: center;
+}
+.signup-container h1{
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: inherit;
+}
+/* Home Component */
+.home-container{
+  text-align: center;
+}
+.home-container h1{
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: inherit;
+}
